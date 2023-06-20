@@ -4,7 +4,16 @@ Hi 👋 My name is Myron Koch
 Developer and Designer
 ----------------------
 
-Started coding in the 80's, made a business out of building web things in through the 2000's and 2010's. Fell into the crypto rabbit hole in 2018, then again in 2020 with the 'web3' revolution, but this time as an executive at a startup. I've spent the last year studying ML and AI.
+Hello there! 👋
+
+I'm a seasoned web developer and tech enthusiast who started my journey in the world of coding back in the 90's. Over the next two decades, I conducted alot of  successful business around creating innovative web solutions, riding the wave of digital transformation.
+
+In 2018, I took a deep dive into the fascinating world of cryptocurrencies, and then again in 2020, I found myself immersed in the 'web3' revolution. This time, however, my focus was heavily on cryptography, developing decentralized applications (dapps) and smart contracts, and running the operations of a startup. 
+
+Recently, I've been dedicating my time to studying Machine Learning and Artificial Intelligence, exploring the endless possibilities these technologies have to offer. 
+
+This GitHub page is a testament to my journey and a showcase of my projects. Feel free to explore and reach out if you're interested in collaboration or just a tech chat!
+
 
 * 🌍  I'm based in Louisville, KY
 * ✉️  You can contact me at [myronkoch-dev@gmail.com](mailto:myronkoch-dev@gmail.com)
