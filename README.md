@@ -16,7 +16,7 @@ This GitHub page is a testament to my journey and a showcase of my projects. Fee
 
 
 * 🌍  I'm based in Louisville, KY
-* ✉️  You can contact me at [myronkoch-dev@gmail.com](mailto:myronkoch-dev@gmail.com)
+* ✉️  You can contact me at [myronkoch-dev@gmail.com](mailto:myronkoch.dev@gmail.com)
 * 🧠  I'm learning Langchain, Chroma, Pinecone, and other related LLM technologies.
 
 ### Skills
