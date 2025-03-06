@@ -6,11 +6,11 @@ Developer and Designer
 
 Hello there! 👋
 
-I'm a seasoned web developer and tech enthusiast who started my journey in the world of coding back in the 90's. Over the next two decades, I conducted alot of  successful business around creating innovative web solutions, riding the wave of digital transformation.
+I'm a seasoned web developer and tech enthusiast who started my journey in the world of coding back in the 90's. Over the next two decades, I conducted a lot of successful business around creating innovative web solutions, riding the wave of digital transformation.
 
-In 2018, I took a deep dive into the fascinating world of cryptocurrencies, and then again in 2020, I found myself immersed in the 'web3' revolution. This time, however, my focus was heavily on cryptography, developing decentralized applications (dapps) and smart contracts, and running the operations of a startup. 
+In 2018, I took a deep dive into the fascinating world of cryptocurrencies, and then again in 2020, I found myself immersed in the 'web3' revolution. This time, however, my focus was heavily on cryptography, developing decentralized applications (dapps) and smart contracts, and running the operations of a web3 focused tech startup. 
 
-For the past few of years, I've been dedicating my time to studying Machine Learning and Artificial Intelligence, exploring the endless possibilities these technologies have to offer. Since LLMs have taken the leap forward that we've all seen, I've become obsessed with it. 
+For the past few of years, I've been dedicating my time to studying Machine Learning and Artificial Intelligence, exploring the endless possibilities these technologies have to offer. Since LLMs have taken the leap forward that we've all seen, I've become obsessed with them. 
 
 This GitHub page is a testament to my journey and a showcase of my projects. Feel free to explore and reach out if you're interested in collaboration or just a tech chat!
 
