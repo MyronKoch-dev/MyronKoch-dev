@@ -1,4 +1,4 @@
-# Hi 👋 My name is Myron Koch
+Myron Koch
 
 ## AI x Blockchain Architect | Ivy League Guest Lecturer
 
